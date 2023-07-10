@@ -23,7 +23,6 @@ require(tidyverse)
 require(tigerstats)
 require(rgl)
 require(knitr)
-
 ```
 
 ```{r}
