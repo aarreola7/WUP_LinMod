@@ -203,4 +203,4 @@ The P-value is alot smaller than model 1,model 3 . There is a big difference bet
 anova(model.1,model.2)
 ```
 
-We reduced the sum of square errors between these two models.
+We reduced the sum of square errors between these two models.This anova model does not show a p-value.
