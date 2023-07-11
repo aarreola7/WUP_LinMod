@@ -196,6 +196,6 @@ Gives a p-value of0.00000499, which does not have any value. It is comparing the
 anova(model.2, model.3)
 ```
 
-
+The P-value is alot smaller than model 1,model 3 . There is a big difference between the data models.
 ## Informally compare Model.1 with model.2
 
